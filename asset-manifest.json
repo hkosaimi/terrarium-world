@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/terrarium_world/static/css/main.1f52c8d0.css",
-    "main.js": "/terrarium_world/static/js/main.8d0896a2.js",
+    "main.css": "/terrarium_world/static/css/main.b88c6de9.css",
+    "main.js": "/terrarium_world/static/js/main.3fe34c97.js",
     "static/media/plant.jpg": "/terrarium_world/static/media/plant.cc673cbaab6c3027b429.jpg",
     "static/media/jar3.jpg": "/terrarium_world/static/media/jar3.cc07cfce9e068adf4c40.jpg",
     "static/media/jar2.jpg": "/terrarium_world/static/media/jar2.a12fcb2bb1d65968406d.jpg",
@@ -9,11 +9,11 @@
     "static/media/jar4.jpg": "/terrarium_world/static/media/jar4.c95028b6720f111a4dfe.jpg",
     "static/media/jar.jpg": "/terrarium_world/static/media/jar.95c8edadb1204e84c8e0.jpg",
     "index.html": "/terrarium_world/index.html",
-    "main.1f52c8d0.css.map": "/terrarium_world/static/css/main.1f52c8d0.css.map",
-    "main.8d0896a2.js.map": "/terrarium_world/static/js/main.8d0896a2.js.map"
+    "main.b88c6de9.css.map": "/terrarium_world/static/css/main.b88c6de9.css.map",
+    "main.3fe34c97.js.map": "/terrarium_world/static/js/main.3fe34c97.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f52c8d0.css",
-    "static/js/main.8d0896a2.js"
+    "static/css/main.b88c6de9.css",
+    "static/js/main.3fe34c97.js"
   ]
 }
