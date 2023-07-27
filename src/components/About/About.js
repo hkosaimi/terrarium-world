@@ -30,19 +30,22 @@ function About() {
         We are commited to provide you with variety of terraiums that are ideal
         for indoor uses.
       </h1>
-      <div className="about__jar">
-        <img src={imgs[counter]} />
-        <div className="progress-line-shad"></div>
-        <div ref={pl} className="progress-line"></div>
-        <button className="progress-btn" onClick={progress}>
-          <PiArrowCircleRightFill />
-        </button>
-      </div>
-      <div className="about__mose">
-        <h4>
-          Moses plants are used widely because of its nature. its nature of
-          growing slow and the low nutritionn makes it the perfect choice for us
-        </h4>
+      <div className="about__jar__mose-container">
+        <div className="about__jar">
+          <img src={imgs[counter]} />
+          <div className="progress-line-shad"></div>
+          <div ref={pl} className="progress-line"></div>
+          <button className="progress-btn" onClick={progress}>
+            <PiArrowCircleRightFill />
+          </button>
+        </div>
+        <div className="about__mose">
+          <h4>
+            Moses plants are used widely because of its nature. its nature of
+            growing slow and the low nutritionn makes it the perfect choice for
+            us
+          </h4>
+        </div>
       </div>
     </div>
   );

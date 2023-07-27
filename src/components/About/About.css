@@ -17,7 +17,7 @@
   width: 300px;
   height: 400px;
 
-  /*   box-shadow: 0 0 10px rgb(6, 87, 14);*/
+  box-shadow: 0 0 15px rgb(0, 0, 0);
 }
 .about__jar img {
   width: 100%;
@@ -55,7 +55,7 @@
 }
 .about__mose {
   background: #0f97085f;
-  width: 100px;
+  width: 80px;
   height: 400px;
   border-radius: 16px;
   margin-left: 15px;
@@ -67,4 +67,8 @@
   left: 50%;
   opacity: 0.1;
   font-size: 15rem;
+}
+.about__jar__mose-container {
+  display: flex;
+  flex-direction: row;
 }
