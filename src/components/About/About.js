@@ -23,13 +23,31 @@ function About() {
   }
   return (
     <div className="about">
-      <h1>
-        <PiPlantFill className="piplantfill2" />
-      </h1>
-      <h1>
-        We are commited to provide you with variety of terraiums that are ideal
-        for indoor uses.
-      </h1>
+      <div className="about__info">
+        <h1>
+          <PiPlantFill className="piplantfill2" />
+        </h1>
+        <h1>
+          We are commited to provide you with variety of terraiums that are
+          ideal for indoor uses.
+        </h1>
+        <div className="about__info-description">
+          <div className="vertical-line"></div>
+          <div className="about__info-h5">
+            <p>
+              If you're wondoring what terrariums are, take a look on the
+              following image to get familiar with it.
+            </p>
+          </div>
+          <div className="vertical-line"></div>
+          <div className="about__info-h5">
+            <p>
+              If you're wondoring what terrariums are, take a look on the
+              following image to get familiar with it.
+            </p>
+          </div>
+        </div>
+      </div>
       <div className="about__jar__mose-container">
         <div className="about__jar">
           <img src={imgs[counter]} />
@@ -40,11 +58,14 @@ function About() {
           </button>
         </div>
         <div className="about__mose">
-          <h4>
-            Moses plants are used widely because of its nature. its nature of
-            growing slow and the low nutritionn makes it the perfect choice for
-            us
-          </h4>
+          <p>
+            Terraiums are like small garden in a jar. the plants used{" "}
+            <a href="https://en.wikipedia.org/wiki/Moss">Mosses</a>,{" "}
+            <a href="https://en.wikipedia.org/wiki/Cactus">Cactus</a>,{" "}
+            <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a>, and more.
+            these special plants are used due to their ability to grow slow and
+            require less nutritions.
+          </p>
         </div>
       </div>
     </div>
