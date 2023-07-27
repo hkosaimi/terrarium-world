@@ -1,0 +1,43 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 2rem;
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+}
+.navbar__menu {
+  display: flex;
+  column-gap: 20px;
+  flex: 1;
+  margin-left: 40px;
+}
+.navbar__menu p a {
+  font-family: "Inter";
+  text-decoration: none;
+  font-size: 14px;
+  color: #fff;
+  opacity: 0.6;
+  transition: opacity 0.3s;
+}
+.navbar__menu p a:hover {
+  opacity: 1;
+}
+
+.navbar__logo img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.navbar__bag {
+  color: #fff;
+  margin-top: 5px;
+  transition: opacity 0.3s;
+}
+
+.navbar__bag:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
