@@ -39,13 +39,6 @@ function About() {
               following image to get familiar with it.
             </p>
           </div>
-          <div className="vertical-line"></div>
-          <div className="about__info-h5">
-            <p>
-              If you're wondoring what terrariums are, take a look on the
-              following image to get familiar with it.
-            </p>
-          </div>
         </div>
       </div>
       <div className="about__jar__mose-container">

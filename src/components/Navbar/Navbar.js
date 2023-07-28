@@ -1,5 +1,5 @@
 import "./Navbar.css";
-import logo from "../../assets/tw2.png";
+import logo from "../../assets/tw4.png";
 import { PiBag } from "react-icons/pi";
 function Header() {
   let Menu = () => (
