@@ -22,7 +22,7 @@ function About() {
     }
   }
   return (
-    <div className="about">
+    <div id="about" className="about">
       <div className="about__info">
         <h1>
           <PiPlantFill className="piplantfill2" />
