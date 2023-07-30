@@ -1,5 +1,5 @@
 import "./Navbar.css";
-import logo from "../../assets/tw4.png";
+import logo from "../../assets/tw.png";
 import { PiBag } from "react-icons/pi";
 function Header() {
   let Menu = () => (
@@ -11,7 +11,7 @@ function Header() {
         <a href="#about">About</a>
       </p>
       <p>
-        <a href="">Contact</a>
+        <a href="#contact">Contact</a>
       </p>
     </>
   );

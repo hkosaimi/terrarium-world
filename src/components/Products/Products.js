@@ -1,11 +1,6 @@
 import "./Products.css";
-import AddToCart from "../../components/AddToCart/AddToCart";
-import { AiFillPlusCircle } from "react-icons/ai";
-import pro1 from "../../assets/terra1.jpg";
-import pro2 from "../../assets/pro2.jpg";
-import pro3 from "../../assets/pro3.jpg";
-import pro4 from "../../assets/pro4.jpg";
-import pro5 from "../../assets/pro5.jpg";
+import AddToCart from "./AddToCart";
+import { pro1, pro2, pro3, pro4, pro5, pro6, pro7 } from "./import";
 function Products() {
   return (
     <div className="products products--padding">
@@ -15,7 +10,7 @@ function Products() {
       <div className="products__wrapper">
         <div className="products__product">
           <div className="products__product-img">
-            <img src={pro3} />
+            <img src={pro1} />
           </div>
           <div className="products__product-des">
             <div className="products__product-title">
@@ -29,12 +24,40 @@ function Products() {
         </div>
         <div className="products__product">
           <div className="products__product-img">
-            <img src={pro4} />
+            <img src={pro2} />
           </div>
           <div className="products__product-des">
             <div className="products__product-title">
               <h1>10 K.D</h1>
               <p>Size: 30 * 30 cm</p>
+            </div>
+            <div className="products__addtocart">
+              <AddToCart />
+            </div>
+          </div>
+        </div>
+        <div className="products__product">
+          <div className="products__product-img">
+            <img src={pro3} />
+          </div>
+          <div className="products__product-des">
+            <div className="products__product-title">
+              <h1>10 K.D</h1>
+              <p>Size: 25 * 25 cm</p>
+            </div>
+            <div className="products__addtocart">
+              <AddToCart />
+            </div>
+          </div>
+        </div>
+        <div className="products__product">
+          <div className="products__product-img">
+            <img src={pro4} />
+          </div>
+          <div className="products__product-des">
+            <div className="products__product-title">
+              <h1>10 K.D</h1>
+              <p>Size: 25 * 25 cm</p>
             </div>
             <div className="products__addtocart">
               <AddToCart />
@@ -49,6 +72,34 @@ function Products() {
             <div className="products__product-title">
               <h1>10 K.D</h1>
               <p>Size: 25 * 25 cm</p>
+            </div>
+            <div className="products__addtocart">
+              <AddToCart />
+            </div>
+          </div>
+        </div>
+        <div className="products__product">
+          <div className="products__product-img">
+            <img src={pro6} />
+          </div>
+          <div className="products__product-des">
+            <div className="products__product-title">
+              <h1>15 K.D</h1>
+              <p>Size: 40 * 40 cm</p>
+            </div>
+            <div className="products__addtocart">
+              <AddToCart />
+            </div>
+          </div>
+        </div>
+        <div className="products__product">
+          <div className="products__product-img">
+            <img src={pro7} />
+          </div>
+          <div className="products__product-des">
+            <div className="products__product-title">
+              <h1>20 K.D</h1>
+              <p>Size: 40 * 40 cm</p>
             </div>
             <div className="products__addtocart">
               <AddToCart />

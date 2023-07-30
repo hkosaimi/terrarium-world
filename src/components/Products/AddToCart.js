@@ -1,6 +1,5 @@
-import React from "react";
-import { BiPlus } from "react-icons/bi";
 import "./AddToCart.css";
+import { BiPlus } from "react-icons/bi";
 function AddToCart() {
   return (
     <div className="addtocart">

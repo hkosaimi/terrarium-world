@@ -49,20 +49,6 @@
   font-size: 1.04em;
 }
 
-.addtocart__btn:hover .IconContainer {
-  width: 90%;
-  border-radius: 40px;
-  transition-duration: 0.3s;
-  margin-left: 0;
-}
-
-.addtocart__btn:hover .text {
-  transform: translate(10px);
-  width: 0;
-  font-size: 0;
-  transition-duration: 0.3s;
-}
-
 .addtocart__btn:active {
   transform: scale(0.95);
   transition-duration: 0.3s;
