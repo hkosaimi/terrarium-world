@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/terrarium_world/static/css/main.8a803597.css",
-    "main.js": "/terrarium_world/static/js/main.accfb1a7.js",
+    "main.css": "/terrarium_world/static/css/main.f8de3b7e.css",
+    "main.js": "/terrarium_world/static/js/main.63f44b19.js",
     "static/media/plant.jpg": "/terrarium_world/static/media/plant.cc673cbaab6c3027b429.jpg",
-    "static/media/pro3.jpg": "/terrarium_world/static/media/pro3.bf1bf64812638c2fa4c3.jpg",
-    "static/media/terra1.jpg": "/terrarium_world/static/media/terra1.11de61e67b46fe49557a.jpg",
+    "static/media/pro1.jpg": "/terrarium_world/static/media/pro1.bf1bf64812638c2fa4c3.jpg",
     "static/media/jar3.jpg": "/terrarium_world/static/media/jar3.cc07cfce9e068adf4c40.jpg",
     "static/media/jar2.jpg": "/terrarium_world/static/media/jar2.a12fcb2bb1d65968406d.jpg",
     "static/media/jar5.jpg": "/terrarium_world/static/media/jar5.097301e0a3f242b189fd.jpg",
+    "static/media/pro6.jpg": "/terrarium_world/static/media/pro6.471391ca277e7d968e88.jpg",
     "static/media/jar4.jpg": "/terrarium_world/static/media/jar4.c95028b6720f111a4dfe.jpg",
-    "static/media/pro2.jpg": "/terrarium_world/static/media/pro2.f54fe03848bc8cb33aac.jpg",
+    "static/media/pro5.jpg": "/terrarium_world/static/media/pro5.2e5c46cb8670e3ac7aeb.jpg",
     "static/media/jar.jpg": "/terrarium_world/static/media/jar.95c8edadb1204e84c8e0.jpg",
-    "static/media/pro4.jpg": "/terrarium_world/static/media/pro4.4537ba1ed5dc192f9c88.jpg",
-    "static/media/pro5.jpg": "/terrarium_world/static/media/pro5.ede63febebd85bd9aafd.jpg",
+    "static/media/pro2.jpg": "/terrarium_world/static/media/pro2.4537ba1ed5dc192f9c88.jpg",
+    "static/media/pro3.jpg": "/terrarium_world/static/media/pro3.ede63febebd85bd9aafd.jpg",
+    "static/media/pro4.jpg": "/terrarium_world/static/media/pro4.5806bb74b43269c978e1.jpg",
+    "static/media/pro7.jpg": "/terrarium_world/static/media/pro7.6adcc583f11d06abcf28.jpg",
     "index.html": "/terrarium_world/index.html",
-    "main.8a803597.css.map": "/terrarium_world/static/css/main.8a803597.css.map",
-    "main.accfb1a7.js.map": "/terrarium_world/static/js/main.accfb1a7.js.map"
+    "main.f8de3b7e.css.map": "/terrarium_world/static/css/main.f8de3b7e.css.map",
+    "main.63f44b19.js.map": "/terrarium_world/static/js/main.63f44b19.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a803597.css",
-    "static/js/main.accfb1a7.js"
+    "static/css/main.f8de3b7e.css",
+    "static/js/main.63f44b19.js"
   ]
 }
