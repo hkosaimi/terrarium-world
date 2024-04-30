@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terrarium_world/static/css/main.da1893ed.css",
-    "main.js": "/terrarium_world/static/js/main.6ab60d3f.js",
-    "static/media/Metallic-Coloured-Plant-Pots-removebg-preview.png": "/terrarium_world/static/media/Metallic-Coloured-Plant-Pots-removebg-preview.b2627061aab7b84754da.png",
-    "static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.png": "/terrarium_world/static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.1714339c51d7262edb43.png",
-    "static/media/istockphoto-1372896722-612x612-removebg-preview.png": "/terrarium_world/static/media/istockphoto-1372896722-612x612-removebg-preview.07c6c5fe0b9d451f3e62.png",
-    "index.html": "/terrarium_world/index.html",
-    "main.da1893ed.css.map": "/terrarium_world/static/css/main.da1893ed.css.map",
-    "main.6ab60d3f.js.map": "/terrarium_world/static/js/main.6ab60d3f.js.map"
+    "main.css": "/terrarium-world/static/css/main.da1893ed.css",
+    "main.js": "/terrarium-world/static/js/main.b2e689bd.js",
+    "static/media/Metallic-Coloured-Plant-Pots-removebg-preview.png": "/terrarium-world/static/media/Metallic-Coloured-Plant-Pots-removebg-preview.b2627061aab7b84754da.png",
+    "static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.png": "/terrarium-world/static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.1714339c51d7262edb43.png",
+    "static/media/istockphoto-1372896722-612x612-removebg-preview.png": "/terrarium-world/static/media/istockphoto-1372896722-612x612-removebg-preview.07c6c5fe0b9d451f3e62.png",
+    "index.html": "/terrarium-world/index.html",
+    "main.da1893ed.css.map": "/terrarium-world/static/css/main.da1893ed.css.map",
+    "main.b2e689bd.js.map": "/terrarium-world/static/js/main.b2e689bd.js.map"
   },
   "entrypoints": [
     "static/css/main.da1893ed.css",
-    "static/js/main.6ab60d3f.js"
+    "static/js/main.b2e689bd.js"
   ]
 }
