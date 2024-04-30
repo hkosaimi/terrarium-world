@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
-
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap");
 
 :root {
@@ -8,9 +7,5 @@
 
 body {
   background: rgb(8, 38, 5);
-  background: linear-gradient(
-    90deg,
-    rgba(8, 38, 5, 1) 0%,
-    rgba(0, 77, 6, 1) 100%
-  );
+  background: linear-gradient(90deg, rgba(8, 38, 5, 1) 0%, rgba(0, 77, 6, 1) 100%);
 }

@@ -1,17 +1,14 @@
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar";
-import Header from "./components/Header/Header";
-import About from "./components/About/About";
-import Products from "./components/Products/Products";
-import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Test from "./components/Test";
+
 function App() {
   return (
     <>
       <Navbar />
-      <Header />
-      <About />
-      <Products />
-      <Footer />
+      <Hero />
+      <Test />
     </>
   );
 }
