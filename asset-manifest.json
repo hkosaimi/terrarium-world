@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terrarium-world/static/css/main.09f4a454.css",
-    "main.js": "/terrarium-world/static/js/main.89f3b315.js",
+    "main.css": "/terrarium-world/static/css/main.ad8d59fa.css",
+    "main.js": "/terrarium-world/static/js/main.b944f0e1.js",
     "static/media/Metallic-Coloured-Plant-Pots-removebg-preview.png": "/terrarium-world/static/media/Metallic-Coloured-Plant-Pots-removebg-preview.b2627061aab7b84754da.png",
     "static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.png": "/terrarium-world/static/media/live-monstera-6-in-white-ceramic-pot-removebg-preview.1714339c51d7262edb43.png",
     "static/media/istockphoto-1372896722-612x612-removebg-preview.png": "/terrarium-world/static/media/istockphoto-1372896722-612x612-removebg-preview.07c6c5fe0b9d451f3e62.png",
     "index.html": "/terrarium-world/index.html",
-    "main.09f4a454.css.map": "/terrarium-world/static/css/main.09f4a454.css.map",
-    "main.89f3b315.js.map": "/terrarium-world/static/js/main.89f3b315.js.map"
+    "main.ad8d59fa.css.map": "/terrarium-world/static/css/main.ad8d59fa.css.map",
+    "main.b944f0e1.js.map": "/terrarium-world/static/js/main.b944f0e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.09f4a454.css",
-    "static/js/main.89f3b315.js"
+    "static/css/main.ad8d59fa.css",
+    "static/js/main.b944f0e1.js"
   ]
 }
